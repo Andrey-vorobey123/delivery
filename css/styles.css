@@ -27,7 +27,7 @@ body{
     line-height: 24px;
     height: 40px;
     flex: .8;
-    background: url(/img/svg/home.svg) no-repeat left 11px center;
+    background: url(../img/svg/home.svg) no-repeat left 11px center;
     /* background-size: 17px; */
     /* background-image:url(../img/svg/home.svg);
     background-repeat: no-repeat; 
@@ -68,7 +68,7 @@ body{
 }
 .promo__s{
     box-shadow: 0px 7px 12px rgba(158, 158, 163, 0.1);
-    background: #FFF1B8 url(/img/img-pizza.png) no-repeat top -52px right -315px  / 925px;
+    background: #FFF1B8 url(../img/img-pizza.png) no-repeat top -52px right -315px  / 925px;
     border-radius: 10px;
     padding: 68px 70px;
     margin-bottom: 58px;
@@ -97,7 +97,7 @@ body{
     font-size: 16px;
     line-height: 24px;
     padding: 8px;
-    background: url(/img/svg/icon-search.svg) no-repeat left 11px center;
+    background: url(../img/svg/icon-search.svg) no-repeat left 11px center;
     padding-left: 35px;
     width: 300px;
     
